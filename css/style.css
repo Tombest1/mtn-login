@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+#header{
+    width: 100%;
+    height: 70px;
+    background-color: #ffcc00;
+}
+#headerlogo img{
+    float: left;
+    width: 4.5%;
+    margin-left: 120px;
+    margin-top: 2.5px;
+    display: inline-block;
+}
+#HyNetflex h2{
+    float: left;
+    margin-top: 20px;
+    display: inline-block;
+}
+#lady img{
+    width: 100%;
+    height: 503px;
+}
+ h3{
+position: absolute;
+top: 90px;
+width: 100%;
+text-align: center;
+color: white;
+}
+.third{
+    width: 250px;
+    height: 265px;
+    background-color: white;
+    border-radius: 10px;
+    margin-left: 210px;
+    position: absolute;
+    top: 150px;
+}
+
+#log {
+    width: 250px;
+    height: 50px;
+    background-color: #ffcc00;
+    border-radius: 10px;
+    border-bottom-left-radius: 50%;
+    border-bottom-right-radius: 50%;
+    float: left;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    font-size: 15px;
+    font-family:  'MTNBrighterSans-Regular', "Helvetica Neue", Helvetica, Arial, sans-serif;;
+
+}
+#log p{
+    margin: 5px;
+
+
+}
+
+#log2 #password {
+    width: 200px;
+    height: 20px;
+    padding-left: 10px;
+    margin-top: 30px;
+    margin-left: 20px;
+    background-color: white;
+    border-radius: 10px;
+    border-color: #ffcc00;
+    
+}
+#log2 button{
+    width: 213px;
+    height: 25px;
+    margin-top: 20px;
+    margin-left: 20px;
+    background-color: #ffcc00;
+    border-radius: 10px;
+    border: none;
+}
+#forth{
+    position: absolute;
+    top: 250px;
+    width: 100%;
+    text-align: center;
+    font-family: sans-serif;
+    color: white;
+    font-size: 40px;
+    float: right;
+}
+#forth p{
+    margin-left: 400px;
+    text-align: center;
+}
+#fifth{
+    width: 100%;
+    height:50px;
+    background-color: #e2e2e2;
+    margin-top: 0px;
+    text-align: center;
+}
+#fifth p{
+    padding-top: 5px;
